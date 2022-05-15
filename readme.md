@@ -237,10 +237,8 @@ wcplusPro 目前是买断制并且开放源代码供用户学习研究，一次�
 免费升级
 
 #### Q: 如何购买？售价多少？是否可以开具发票？
-wcplusPro 的价格会有阶段性的调整，实时价格请微信咨询 *wonderfulcorporation* 可备注 wcplusPro，增加通过率。
+wcplusPro 的价格会有阶段性的调整，实时价格请邮件咨询 wonderfulsuccess@163.com 。
 可开具电子发票，开票内容为 信息技术服务/其他软件服务
-
-![扫码添加微信](./img/wechat.jpg)
 
 ### 第六 视频介绍
 

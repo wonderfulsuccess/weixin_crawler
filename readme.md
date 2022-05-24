@@ -23,7 +23,7 @@ wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理�
 
 本文为图文介绍，如果你想通过几分钟的视频快速了解，请观看 [视频介绍](https://www.bilibili.com/video/BV12P4y1T7CJ)
 
-你还可通过[在线演示](/demo)快速体验 wcplusPro 提供的部分功能。鉴于 wcplusPro 是专为大尺寸屏幕设计的高效公众号数据分析软件，建议使用电脑查看在线演示 [http://www.wcplus.cn/demo](/demo) 。
+你还可通过[在线演示](http://www.wcplus.cn/demo?s=weixin_crawler)快速体验 wcplusPro 提供的部分功能。鉴于 wcplusPro 是专为大尺寸屏幕设计的高效公众号数据分析软件，建议使用电脑查看在线演示 [http://www.wcplus.cn/demo](http://www.wcplus.cn/demo?s=weixin_crawler) 。
 
 当你打开 wcplusPro，在启动页赫然显示着两个硕大的数字
 
@@ -246,7 +246,7 @@ wcplusPro 的价格会有阶段性的调整，实时价格请邮件咨询 wonder
 
 ### 第七 在线演示
 
-[建议使用电脑打开 http://www.wcplus.cn/demo](/demo) 
+[建议使用电脑打开 http://www.wcplus.cn/demo](http://www.wcplus.cn/demo?s=weixin_crawler) 
 
 **注意**：在线演示是以 wcplusPro7.04 为原型上线的，截止到2022年4月29日，已经升级到了 7.2，期间新增了任务周历、发文周历、精确搜索等功能，在线演示均无。如果你需要详细了解功能，请观看[10 分钟的介绍视频](https://www.bilibili.com/video/BV1Ji4y1S7Xy)。
 

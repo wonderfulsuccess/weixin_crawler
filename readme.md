@@ -7,9 +7,10 @@ Hi weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数
 - 使用轻量级数据库 sqlite，得益于 Python 对 sqlite 的原生支持，可免安装直接运行。尽管如此，仍然可以高效存取百万数量级文章
 - 提供一键安装Python依赖脚本，提供一键启动脚本，技术小白也能轻松使用
 
-更多技术介绍请访问官网 [wcplusPro官网](http://www.wcplus.cn/?s=weixin_crawler) ，你也可以继续阅读下文，了解详细功能。
-
 ![](./img/crawler.gif)
+![](./img/data1.gif)
+
+更多技术介绍请访问官网 [wcplusPro官网](http://www.wcplus.cn/?s=weixin_crawler) ，你也可以继续阅读下文，了解详细功能。
 
 wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理并不复杂：
 

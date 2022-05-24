@@ -9,7 +9,7 @@ Hi weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数
 
 更多技术介绍请访问官网 [wcplusPro官网](http://www.wcplus.cn/?s=weixin_crawler) ，你也可以继续阅读下文，了解详细功能。
 
-![](./img/Post1.jpg)
+![](./img/crawler.gif)
 
 wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理并不复杂：
 

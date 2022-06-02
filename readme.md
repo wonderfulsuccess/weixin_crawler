@@ -93,13 +93,15 @@ wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理�
 
 # 以下是详细图文介绍
 
+除了阅读文章，你还可以直接看视频介绍，或者查看在线演示
+
+- 本文为图文介绍，如果你想通过4分钟的视频快速了解，请观看 [视频介绍](https://www.bilibili.com/video/BV12P4y1T7CJ)
+- 同时我们准备了长达 10 分钟的[视频解说](https://www.bilibili.com/video/BV1Ji4y1S7Xy)
+- [在线演示](http://www.wcplus.cn/demo?s=weixin_crawler)体验 wcplusPro 提供的部分功能，鉴于 wcplusPro 是专为大尺寸屏幕设计的高效公众号数据分析软件，建议使用电脑等宽屏设备查看在线演示  。
+
 ### wcplusPro
 
 ![公众号数量和文章总数统计](./img/main.jpg)
-
-本文为图文介绍，如果你想通过几分钟的视频快速了解，请观看 [视频介绍](https://www.bilibili.com/video/BV12P4y1T7CJ)
-
-你还可通过[在线演示](http://www.wcplus.cn/demo?s=weixin_crawler)快速体验 wcplusPro 提供的部分功能。鉴于 wcplusPro 是专为大尺寸屏幕设计的高效公众号数据分析软件，建议使用电脑查看在线演示 [http://www.wcplus.cn/demo](http://www.wcplus.cn/demo?s=weixin_crawler) 。
 
 当你打开 wcplusPro，在启动页赫然显示着两个硕大的数字
 

@@ -1,4 +1,4 @@
-weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数据分析软件 wcplusPro，它具有这些特点：
+weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数据分析软件 wcplusPro，架构精简、稳定成熟、开箱即用，它具有这些特点：
 
 - 前后端分离，前端使用 Vue2，后端使用 Python3.7+
 - 同时使用 http request api 和 socketio 进行前后端通信

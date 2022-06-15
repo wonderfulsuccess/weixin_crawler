@@ -1,11 +1,11 @@
 weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数据分析软件 wcplusPro，架构精简、稳定成熟、开箱即用，它具有这些特点：
 
-- 前后端分离，前端使用 Vue2，后端使用 Python3.7+
-- 同时使用 http request api 和 socketio 进行前后端通信
+- 前后端分离，前端使用 Vue+Webpack，后端使用 Python3.6+
+- 同时使用 RESTful API 和 socketio 进行前后端通信
 - Web 框架使用 tornado，同时爬虫异步网络请求也是 tornado
 - 使用 Python 协程提高采集速度
 - 使用轻量级数据库 sqlite，得益于 Python 对 sqlite 的原生支持，可免安装直接运行。尽管如此，仍然可以高效存取百万数量级文章
-- 提供一键安装Python依赖脚本，提供一键启动脚本，技术小白也能轻松使用
+- 提供一键运行脚本，技术小白也能轻松使用
 
 产品形式上，提供了源码版和订阅版，详见[产品和交付](http://www.wcplus.cn/product?s=weixin_crawler)
 

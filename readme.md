@@ -1,3 +1,5 @@
+Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler)
+
 Hi 很遗憾 weixin_crawler 已经不再维护。好消息是，我们推出了产品级微信公众号数据分析软件 wcplusPro，在 weixin_crawler 的基础上，经过 4 年迭代，架构精简、稳定成熟、开箱即用、界面优雅。
 
 <div align="center"><img max-width="500" src="./img/logo.png"/>

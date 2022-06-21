@@ -1,4 +1,4 @@
-<div align="center"><img width="200" src="./img/logo.png"/>
+<div align="center"><img width="400" src="./img/logo.png"/>
 <h1> weixin_crawler -> wcplusPro </h1>
 
 <p>极致性价比的微信公众号数据分析软件 好学、好用、号定制</p>

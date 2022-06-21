@@ -4,8 +4,8 @@ Hi 由于架构原因，我们重新设计了 weixin_crawler 并更名为 wcplus
 
 <div align="center">
 <img max-width="500" src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>
-<img width="100%" src="http://cdn2.wcplus.cn/inmac.jpeg"/>
 <p>极致性价比的微信公众号数据分析软件 好学、好用、好定制</p>
+<img width="100%" src="http://cdn2.wcplus.cn/inmac.jpeg"/>
 </div>
 
 

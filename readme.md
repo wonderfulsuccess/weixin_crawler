@@ -1,33 +1,42 @@
+Hi 很遗憾 weixin_crawler 已经不再维护。好消息是，我们推出了产品级微信公众号数据分析软件 wcplusPro，在 weixin_crawler 的基础上，经过 4 年迭代，架构精简、稳定成熟、开箱即用、界面优雅。
+
 <div align="center"><img max-width="500" src="./img/logo.png"/>
 <p>极致性价比的微信公众号数据分析软件 好学、好用、号定制</p>
 <h2>wcplusPro </h2>
 
-
 </div>
 
-weixin_crawler 已经不再维护, 我们推出了产品级微信公众号数据分析软件 wcplusPro，架构精简、稳定成熟、开箱即用，它具有这些特点：
+## 🎉 特性
 
-- 前后端分离，前端使用 Vue+Webpack，后端使用 Python3.6+
-- 同时使用 RESTful API 和 socketio 进行前后端通信
-- Web 框架使用 tornado，同时爬虫异步网络请求也是 tornado
-- 使用 Python 协程提高采集速度
-- 使用轻量级数据库 sqlite，得益于 Python 对 sqlite 的原生支持，可免安装直接运行。尽管如此，仍然可以高效存取百万数量级文章
-- 提供一键运行脚本，技术小白也能轻松使用
+- 💪 前后端分离，前端使用 Vue+Webpack，后端使用 Python，支持3.6+。技能充分咯用前端工程构件优雅的用户界面，又能利用 Python 的完整生态，高效开发。
+- 💅 同时使用 RESTful API 和 socketio 进行前后端通信，Python 可主动推送消息给前端，用户体验媲美原生桌面应用
+- 🌍 Web 框架使用 tornado，同时爬虫异步网络请求也是 tornado。尽可能减少项目依赖，给学习研究提供便利
+- 👏 使用 Python 协程提高采集速度，采集速度快，占用系统资源少
+- 😈 注释丰富，核心代码仅千余行
+- 🥳 使用轻量级数据库 sqlite，得益于 Python 对 sqlite 的原生支持，可免安装直接运行。尽管如此，仍然可以高效存取百万数量级文章
+- 🚀 跨平台支持 windows、macOS、Linux(包括树莓派)
+- 📦️ 提供一键安装脚本、一键运行脚本，0 技术门槛
+- 🪐 详细功能介绍见底部详细内容或者[wcplusPro官网](http://www.wcplus.cn/?s=weixin_crawler)
 
-产品形式上，提供了源码版和订阅版，既满足研究学习，又适合仅仅采集数据的情况，详见[产品和交付](http://www.wcplus.cn/product?s=weixin_crawler)
+## 🎉 致力于
+
+wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理并不复杂：
+
+- 👏 首先，wcplusPro 提供稳定的公众号数据搜集服务，帮助你拿到任何公众号的全部历史文章数据，包括阅读数据。
+- 🚀 其次，以公众号为单位，wcplusPro 提供多种上帝视角图表报告和精确搜索服务，你甚至可以导出数据。
+- 🐎 最后，wcplusPro 针对桌面电脑优化，充分利用大屏幕，高密度陈列信息。一台电脑运行 wcplusPro，局域网内的所有设备都能使用。
+
+## 🌐 官网
+
+产品形式上，wcplusPro 提供了源码版和订阅版，既能满足研究学习，又适合仅仅采集数据的情况，详见[产品和交付](http://www.wcplus.cn/product?s=weixin_crawler)
 
 ![](./img/crawler.gif)
 ![](./img/data1.gif)
 
 更多技术介绍请访问官网 [wcplusPro官网](http://www.wcplus.cn/?s=weixin_crawler) ，你也可以继续阅读下文，了解详细功能。
 
-wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理并不复杂：
 
-- 首先，wcplusPro 提供稳定的公众号数据搜集服务，帮助你拿到任何公众号的全部历史文章数据，包括阅读数据。
-- 其次，以公众号为单位，wcplusPro 提供多种上帝视角图表报告和精确搜索服务，你甚至可以导出数据。
-- 最后，wcplusPro 针对桌面电脑优化，充分利用大屏幕，高密度陈列信息。一台电脑运行 wcplusPro，局域网内的所有设备都能使用。
-
-# 版本升级记录
+## 😊 版本升级记录
 
 #### 7.41 2022年6月9日
 1. 源码版支持 Python3.7.7 及更高版本，更低版本未做严格测试
@@ -106,7 +115,7 @@ wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理�
 1. 修复通过微信读书采集阅读数据提示 keyError subscene 的错误'
 2. 修复其他已知 bug'
 
-# 以下是详细图文介绍
+## 🧾 功能介绍
 
 除了阅读文章，你还可以直接看视频介绍，或者查看在线演示
 

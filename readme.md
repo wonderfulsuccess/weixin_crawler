@@ -5,7 +5,6 @@ Hi 由于架构原因，我们重新设计了 weixin_crawler 并更名为 wcplus
 <div align="center"><img max-width="500" src="./img/logo.png"/>
 <p>极致性价比的微信公众号数据分析软件 好学、好用、号定制</p>
 <h2>wcplusPro </h2>
-
 </div>
 
 ## 🎉 特性

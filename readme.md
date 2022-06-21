@@ -1,3 +1,9 @@
+<div align="center"><img width="200" src="./img/logo.png"/>
+<h1> weixin_crawler -> wcplusPro </h1>
+
+<p>极致性价比的微信公众号数据分析软件 好学、好用、号定制</p>
+</div>
+
 weixin_crawler 已经不再开源, 我们推出了产品级微信公众号数据分析软件 wcplusPro，架构精简、稳定成熟、开箱即用，它具有这些特点：
 
 - 前后端分离，前端使用 Vue+Webpack，后端使用 Python3.6+

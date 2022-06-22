@@ -5,14 +5,14 @@ Hi 由于架构原因，我们重新设计了 weixin_crawler 并更名为 wcplus
 <div align="center">
 <img max-width="500" src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>
 <p>极致性价比的微信公众号数据分析软件 好学、好用、好定制</p>
-<img width="100%" src="http://cdn2.wcplus.cn/inmac.jpeg"/>
+<img width="100%" src="http://cdn2.wcplus.cn/capture.jpeg"/>
 </div>
 
 
 
 ## 🎉 特性
 
-- 💪 前后端分离，前端使用 Vue+Webpack，后端使用 Python，支持3.6+。技能充分咯用前端工程构件优雅的用户界面，又能利用 Python 的完整生态，高效开发。
+- 💪 前后端分离，前端使用 Vue+Webpack，后端使用 Python，支持3.6+。既能充分利用前端工程构建优雅的用户界面，又能利用 Python 的完整生态，高效开发。
 - 💅 同时使用 RESTful API 和 socketio 进行前后端通信，Python 可主动推送消息给前端，用户体验媲美原生桌面应用
 - 🌍 Web 框架使用 tornado，同时爬虫异步网络请求也是 tornado。尽可能减少项目依赖，给学习研究提供便利
 - 👏 使用 Python 协程提高采集速度，采集速度快，占用系统资源少

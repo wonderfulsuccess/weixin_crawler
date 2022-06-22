@@ -1,7 +1,7 @@
 Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler)|[视频介绍](https://www.bilibili.com/video/BV1Ji4y1S7Xy)
 
 <div align="center">
-<img width="300" src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>
+<img max-width="450" style="margin-top: 50px; margin-bottom:50px" src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>
 <p>极致性价比的微信公众号数据分析软件 好学、好用、好定制</p>
 <img width="100%" src="http://cdn2.wcplus.cn/capture.jpeg"/>
 </div>

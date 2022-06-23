@@ -48,7 +48,7 @@ wcplusPro 致力于帮助你从微信公众号中获得洞见，背后的原理�
 
 功能特性详细介绍见下文
 
-<img width="100%" src="http://cdn2.wcplus.cn/inmac.jpeg"/>
+<img width="100%" src="http://cdn2.wcplus.cn/inmac.JPEG"/>
 
 ## 🌐 官网
 

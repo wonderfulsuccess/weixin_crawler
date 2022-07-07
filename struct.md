@@ -1,5 +1,6 @@
 wcplusPro 项目架构清晰，且已经跑通了完整的商业闭环。如果你是一个 Python 开发者，计划推出自己的产品，wcplusPro 能多诸多方面提供参考价值。
 
+```
 ./wcplusPro7 19 directories, 96 files
 ├── cmp 组件根目录
 │   ├── __init__.py
@@ -116,3 +117,4 @@ wcplusPro 项目架构清晰，且已经跑通了完整的商业闭环。如果�
 │           └── chunk-libs.dad75063.js
 ├── windows_install_package.bat windows一键安装脚本
 └── windows_run_wcplusPro.bat windows一键运行脚本
+```

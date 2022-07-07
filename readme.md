@@ -1,4 +1,4 @@
-Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler)|[视频介绍](https://www.bilibili.com/video/BV1Ji4y1S7Xy)|[源代码结构](struct.md)
+Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [视频介绍](https://www.bilibili.com/video/BV1Ji4y1S7Xy) | [源代码结构](struct.md)
 
 <div align="center">
 <br>

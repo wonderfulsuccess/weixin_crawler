@@ -1,5 +1,7 @@
 Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [视频介绍](https://www.bilibili.com/video/BV1Ji4y1S7Xy) | [源代码结构](struct.md)
 
+![Python Version](http://cdn2.wcplus.cn/python_support.svg)
+
 <div align="center">
 <br>
 <img src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>

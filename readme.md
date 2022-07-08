@@ -6,7 +6,7 @@ Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [视频介绍]
 <br>
 <img src="http://cdn2.wcplus.cn/wcplusProLogo.png"/>
 <br>
-<p>极致性价比的微信公众号数据分析软件 好学、好用、好定制</p>
+<p>一个用Python实现的微信公众号数据采集、分析软件，已经持续迭代4年，服务于5,000多位客户</p>
 <img width="100%" src="http://cdn2.wcplus.cn/capture.jpeg"/>
 </div>
 

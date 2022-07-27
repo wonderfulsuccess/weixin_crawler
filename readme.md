@@ -10,7 +10,11 @@ Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [视频介绍]
 <img width="100%" src="http://cdn2.wcplus.cn/capture.jpeg"/>
 </div>
 
-Hi 由于架构原因，我们重新设计了 weixin_crawler 并更名为 wcplusPro，并且不再开源。wcplusPro 是一个款产品级微信公众号数据分析软件，在 weixin_crawler 的基础上，经过 4 年持续迭代，架构精简、稳定成熟、开箱即用、界面优雅。
+Hi 我们重新设计了 weixin_crawler 并更名为 wcplusPro，不再开源。wcplusPro 是一个款产品级微信公众号数据分析软件，在 weixin_crawler 的基础上，经过 4 年持续迭代，架构精简、稳定成熟、开箱即用、界面优雅。已经为 5000 多位用户提供服务。
+
+如果你只需要采集微信公众号的数据，我们提供了订阅版，按使用时长付费。
+如果你是开发者，需要参考、研究、学习 wcplusPro 的源代码，我们还提供了源码版。
+详见[产品和交付](http://www.wcplus.cn/product?s=weixin_crawler)
 
 ## 🎉 致力于
 
@@ -281,6 +285,15 @@ wcplusPro 的价格会有阶段性的调整，实时价格请邮件咨询 wonder
 当前的最新版本和发布时间可在 [在线演示的帮助页面](http://www.wcplus.cn/demo#/help/help) 点击"检查更新"查看。
 
 ## 😊 版本升级记录
+
+#### wcplusPro 7.5 2022年7月25日
+1. 新增公众号报告全文精确检索
+2. 新增公众号报告统计数据卡片，统计数量、时间、影响力、发文地区信息
+3. 优化公众号报告发文周历
+4. 优化UI视觉
+
+#### wcplusPro 7.43 2022年7月15日
+1. 新增复制微信历史文章主页链接到剪切板
 
 #### 7.42 2022年7月2日
 1. 修复按时段区间采集阅读数据的bug

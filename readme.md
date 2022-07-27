@@ -10,7 +10,7 @@ Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [视频介绍]
 <img width="100%" src="http://cdn2.wcplus.cn/capture.jpeg"/>
 </div>
 
-Hi 我们重新设计了 weixin_crawler 并更名为 wcplusPro，不再开源。wcplusPro 是一个款产品级微信公众号数据分析软件，在 weixin_crawler 的基础上，经过 4 年持续迭代，架构精简、稳定成熟、开箱即用、界面优雅。已经为 5000 多位用户提供服务。
+Hi 我们重新设计了 weixin_crawler 并更名为 wcplusPro，不再开源。wcplusPro 是一个款产品级微信公众号数据分析软件，在 weixin_crawler 的基础上，经过 4 年持续迭代，架构精简、稳定成熟、开箱即用、界面优雅。
 
 如果你只需要采集微信公众号的数据，我们提供了订阅版，按使用时长付费。
 如果你是开发者，需要参考、研究、学习 wcplusPro 的源代码，我们还提供了源码版。

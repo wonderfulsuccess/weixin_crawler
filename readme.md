@@ -1,6 +1,6 @@
 Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [4K视频介绍](https://www.youtube.com/watch?v=mPALu1LZk3s) | [源代码结构](struct.md)
 
-![4](./img/wcplusPro7.5.svg) ![6](./img/build.svg) ![1](./img/Python.svg) ![2](./img/vue.svg) ![3](./img/tornado6.1.svg) <a href="http://www.wcplus.cn/?s=main">![5](./img/website.svg)</a>
+![1](./img/wcplusPro7.5.svg) ![2](./img/build.svg) ![3](./img/Python.svg) ![4](./img/vue.svg) ![5](./img/tornado6.1.svg) <a href="http://www.wcplus.cn/?s=main">![6](./img/website.svg)</a>
 
 <br>
 <div align="center" style="margin: 100px 0px">
@@ -8,7 +8,7 @@ Github主页 | [官网](http://www.wcplus.cn/?s=weixin_crawler) | [4K视频介�
 </div>
 <br>
 
-<img style="margin:0px auto;display:block;border:1px green solid;border-radius:5px;color:green;" src="http://cdn2.wcplus.cn/7507.png">
+![7](./img/7507.png)
 
 
 weixin_crawler 已于2019年更名为 wcplusPro，不再免费提供源代码，如果你需要更名之前的最新的源代码（最后更新于2019年3月），欢迎联系我免费获取。本文仅介绍 wcplusPro 的技术和功能特性。

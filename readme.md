@@ -46,6 +46,8 @@ wcplusPro 提供了：
 
 详细够功能介绍请查看[官网文档](http://www.wcplus.cn/?s=weixin_crawler)
 
+<img style="margin:0px auto;display:block;border:1px green solid;border-radius:5px;color:green;font-size:16px;" src="http://cdn2.wcplus.cn/7509.gif">
+
 ### 技术特性
 
 - 自带安装脚本、运行脚本，点击鼠标就能完成所有的安装和运行工作，零技术要求。

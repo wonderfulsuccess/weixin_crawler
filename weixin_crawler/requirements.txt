@@ -1,0 +1,10 @@
+flask
+gevent
+flask_socketio
+flask_socketio
+flask_cors
+flask_restful
+mitmproxy
+requests
+uiautomator2
+elasticsearch

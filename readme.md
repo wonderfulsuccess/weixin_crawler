@@ -44,7 +44,7 @@ wcplusPro 提供了：
    - 所有已经采集公众号的标题、作者、摘要全文检索
    - 单个公众号的标题、作者、摘要、正文全文检索
 
-详细够功能介绍请查看[官网文档](http://www.wcplus.cn/?s=weixin_crawler)
+详细功能介绍请查看[官网文档](http://www.wcplus.cn/?s=weixin_crawler)
 
 <img style="margin:0px auto;display:block;border:1px green solid;border-radius:5px;color:green;font-size:16px;" src="http://cdn2.wcplus.cn/7509.gif">
 

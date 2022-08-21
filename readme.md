@@ -72,6 +72,11 @@ wcplusPro 提供了：
 - 爬虫加速 Python 协程
 - 前后端实时通信 socketio
 
+### 申请试用
+试用版，足够完成对1个公众号，全部历史文章的采集。无论是几十篇文，还是数万篇文章
+[wcplusPro试用版 申请方法](http://www.wcplus.cn/intro/a/2.html)
+
+
 ### 联系购买
 
 邮箱: <a href = "mailto:wonderfulsuccess@163.com">wonderfulsuccess@163.com</a> 点击邮箱地址可直接发送邮件

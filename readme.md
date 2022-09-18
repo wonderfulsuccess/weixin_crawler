@@ -1,4 +1,4 @@
-Github主页 | [官网](https://www.wcplus.cn/?s=weixin_crawler) | [4K视频介绍](https://www.youtube.com/watch?v=mPALu1LZk3s) | [源代码结构](https://www.wcplus.cn/docs/a/2.html) 
+Github主页 | [官网](https://www.wcplus.cn/?s=weixin_crawler) | [4K视频介绍](https://www.youtube.com/watch?v=mPALu1LZk3s) | [源代码结构](struct.md) 
 
 ![1](./img/wcplusPro7.5.svg) ![2](./img/build.svg) ![3](./img/Python.svg) ![4](./img/vue.svg) ![5](./img/tornado6.1.svg) <a href="http://www.wcplus.cn/?s=weixin_crawler">![6](./img/website.svg)</a>
 

@@ -78,72 +78,162 @@ wcplusPro 提供了：
 
 ### 版本更新
 
-<h6 style="color: white; font-weight: 500;background: green;">8.0</h6> 2022年11月25日
+<div style="color: green; font-size: 1.5em;background: green;">8.0</div> 2022年11月25日
+
+
 - 订阅版支持通过点击文章链接获取所有参数，无需再点击 qq.com，参数获取速度更快
 - 帮助页面可直接看到 IP 地址，简化代理设置过程
-<h6 style="color: white; font-weight: 500;background: green;">7.57</h6> 2022年11月18日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.57</div> 2022年11月18日
+
+
 - macOS 下支持通过桌面版微信获取参数（Beta）
 - 支持自动代理模式，简化获取参数前的代理设置工作
-<h6 style="color: white; font-weight: 500;background: green;">7.56</h6> 2022年10月31日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.56</div> 2022年10月31日
+
+
 - 导出的 CSV 文件增加原文 html 文件名，方便找到原文
-<h6 style="color: white; font-weight: 500;background: green;">7.55</h6> 2022年10月26日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.55</div> 2022年10月26日
+
+
 - 左边菜单栏更改为默认不显示，通过左上角按钮可弹出菜单。增加了屏幕利用率的同时，也让界面更加简洁
 - 去除了所有表格的边框
-<h6 style="color: white; font-weight: 500;background: green;">7.54</h6> 2022年10月16日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.54</div> 2022年10月16日
+
+
 - 对已采集的数据 增加百分比显示 每个公众号的数据状态一目了然
 - 百分比搭配进度条、颜色标签 更加直观展示数据状态
 - 重新设计了多彩文章列表UI
-<h6 style="color: white; font-weight: 500;background: green;">7.53</h6> 2022年10月13日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.53</div> 2022年10月13日
+
+
 - 修复已知的UI逻辑错误
-<h6 style="color: white; font-weight: 500;background: green;">7.52</h6> 2022年9月6日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.52</div> 2022年9月6日
+
+
 - 新增导出 Excel 完成后 自动打开导出的文件
 - 修复 Windows 下直接使用 Excel 查看导出文件乱码的问题
-<h6 style="color: white; font-weight: 500;background: green;">7.51</h6> 2022年8月20日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.51</div> 2022年8月20日
+
+
 - 搜索结果增加文章封面显示
 - 修复全文检索遇到无发文日期文章时，无法显示搜索结果的错误
-<h6 style="color: white; font-weight: 500;background: green;">7.5</h6> 2022年7月25日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.5</div> 2022年7月25日
+
+
 - 新增公众号报告全文精确检索
 - 新增公众号报告统计数据卡片，统计数量、时间、影响力、发文地区信息
 - 优化公众号报告文周历
 - 优化UI视觉
-<h6 style="color: white; font-weight: 500;background: green;">7.43</h6> 2022年7月15日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.43</div> 2022年7月15日
+
+
 - 新增复制微信历史文章主页链接到剪切板
-<h6 style="color: white; font-weight: 500;background: green;">7.42</h6> 2022年7月2日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.42</div> 2022年7月2日
+
+
 - 修复按时段区间采集阅读数据的bug
 - 修复微信读书参数背景颜色显示的错误
-<h6 style="color: white; font-weight: 500;background: green;">7.41</h6> 2022年6月9日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.41</div> 2022年6月9日
+
+
 - 源码版支持 Python3.7.7 及更高版本，更低版本未做严格测试
-<h6 style="color: white; font-weight: 500;background: green;">7.4</h6> 2022年6月8日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.4</div> 2022年6月8日
+
+
 - 新增订阅版，可按时长购买 wcplusPro
-<h6 style="color: white; font-weight: 500;background: green;">7.31</h6> 2022年6月3日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.31</div> 2022年6月3日
+
+
 - 修复搜集文章内容偶尔提示 Netowrk error 的 bug
-<h6 style="color: white; font-weight: 500;background: green;">7.3</h6> 2022年5月31日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.3</div> 2022年5月31日
+
+
 - 新增搜集发文地区, 可在全部历史文章列表日期和地区栏查看
-<h6 style="color: white; font-weight: 500;background: green;">7.2</h6> 2022年4月17日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.2</div> 2022年4月17日
+
+
 - 新增历史任务日历热点图
 - 阅读数据全景图增加在看数据
 - 公众号报告增加发文日历热点图
-<h6 style="color: white; font-weight: 500;background: green;">7.1</h6> 2022年4月13日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.1</div> 2022年4月13日
+
+
 - 新增搜索功能，可按照标题、摘要、作者 关键词精确搜索
 - 新增搜索结果多种排序方式
 - 新增搜索结果月份指数
-<h6 style="color: white; font-weight: 500;background: green;">7.05</h6> 2022年4月4日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.05</div> 2022年4月4日
+
+
 - 添加导出到 Excel 的功能
 - 修复运行 windows_install_package.bat 闪退的 bug
 - 修复搜集阅读量为 0 文章的阅读数据时，提示 out of date 的错误
-<h6 style="color: white; font-weight: 500;background: green;">7.04</h6> 2022年3月27日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.04</div> 2022年3月27日
+
+
 - 增加更新检查功能
-<h6 style="color: white; font-weight: 500;background: green;">7.03</h6> 2022年3月25日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.03</div> 2022年3月25日
+
+
 - 修复已知 bug
-<h6 style="color: white; font-weight: 500;background: green;">7.02</h6> 2022年3月24日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.02</div> 2022年3月24日
+
+
 - 修复 windows 下保存文章原文失败的错误
-<h6 style="color: white; font-weight: 500;background: green;">7.01</h6> 2022年3月22日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.01</div> 2022年3月22日
+
+
 - 简化安装和使用步骤，双击鼠标即可完成所有工作
 - 增加 window 系统双击安装Python依赖脚本
 - 增加 window 系统双击安装运行wcplusPro脚本
 - 增加 macos 双击安装Python依赖脚本
 - 增加 macos 双击安装运行wcplusPro脚本
-<h6 style="color: white; font-weight: 500;background: green;">7.0</h6> 2022年3月21日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">7.0</div> 2022年3月21日
+
+
 - 使用协程重写了全部后端，所有网络请求均为异步模式，增强了代码可维护性，二次开发成本更低
 - 数据库从 mysql 改为 sqlite，使用无需单独运行数据库，降低了对系统资源的占用
 - 重新设计了任务板块 UI，创建任务、任务状态、任务进度、参数、历史任务一目了然
@@ -152,24 +242,52 @@ wcplusPro 提供了：
 - 优化了公众历史文章列表，浏览文章数量超过 5000 的公众号更加流畅
 - 增加了配套网站 wcplus.cn 提供在线文档在内的多种功能
 - 增加检查更新功能
-<h6 style="color: white; font-weight: 500;background: green;">6.62</h6> 2022年2月25日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.62</div> 2022年2月25日
+
+
 - 公众号报告增加所有阅读量10万+文章专栏
 - 增加文章 在看/点赞比、赞赏/在看比
-<h6 style="color: white; font-weight: 500;background: green;">6.61</h6> 2022年2月20日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.61</div> 2022年2月20日
+
+
 - 修复已知 bug
-<h6 style="color: white; font-weight: 500;background: green;">6.6</h6> 2022年2月19日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.6</div> 2022年2月19日
+
+
 - 新增公众号报告 统计阅读量、点赞、在看数据历史变化趋势
 - 升级前端工程 运行前端项目更加简单
 - 修复无法通过 qq.com 跳转到公众号主页的错误
 - 新增管理登陆功能
-<h6 style="color: white; font-weight: 500;background: green;">6.31</h6> 2022年1月7日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.31</div> 2022年1月7日
+
+
 - 修改代理服务器仅对微信和微信读书有效
 - 移除代理服务器无关日志信息
-<h6 style="color: white; font-weight: 500;background: green;">6.3</h6> 2021年11月10日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.3</div> 2021年11月10日
+
+
 - 修复macOS Monterey 隔空播放占用 5000 端口的冲突
-<h6 style="color: white; font-weight: 500;background: green;">6.23</h6> 2021年10月20日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.23</div> 2021年10月20日
+
+
 - 修复已知 bug
-<h6 style="color: white; font-weight: 500;background: green;">6.22</h6> 2021年9月20日
+
+
+<div style="color: green; font-size: 1.5em;background: green;">6.22</div> 2021年9月20日
+
+
 - 修复通过微信读书采集阅读数据提示 keyError subscene 的错误
 - 修复其他已知 bug
 

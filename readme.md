@@ -18,7 +18,7 @@ wcplusPro 提供了：
 - 面向公众号的分析报告
 - 公众号全文检索
 
-你可以按照使用时长购买订阅版，也可以直接购买源代码。订阅版采集一个公众号的全部历史数据成本不到 10 块钱，更多内容请访问：
+你可以按照使用时长购买订阅版，也可以直接购买源代码。如果不确 wcplusPro 是否满足需求，请在官网首页申请试用。
 
 - [官网](https://www.wcplus.cn/?s=weixin_crawler)
 - [详细功能介绍](https://www.wcplus.cn/intro?s=weixin_crawler)

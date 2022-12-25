@@ -24,7 +24,7 @@ wcplusPro 提供了：
 - [详细功能介绍](https://www.wcplus.cn/intro?s=weixin_crawler)
 - [产品形式](https://www.wcplus.cn/product?s=weixin_crawler)
 - [在线演示](https://www.wcplus.cn/demo?s=weixin_crawler)
-- [视频演示](https://www.youtube.com/watch?v=mPALu1LZk3s)
+- [视频演示](https://www.youtube.com/watch?v=nAtqSTgVRw0)
 
 ### 功能特性
 

@@ -1,4 +1,4 @@
-Github主页 | [官网](https://www.wcplus.cn/pro?s=weixin_crawler) | [4K视频介绍](https://www.youtube.com/watch?v=nAtqSTgVRw0) | [完整用户界面展示.pdf](https://www.wcplus.cn/static/file/ui.pdf) | [源代码结构](struct.md) 
+Github主页 | [官网](https://www.wcplus.cn/?s=weixin_crawler) | [更新记录](https://www.wcplus.cn/update_notes?s=weixin_crawler) | [4K视频介绍](https://www.youtube.com/watch?v=nAtqSTgVRw0) | [源代码结构](struct.md) 
 
 ![1](./img/wcplusPro7.5.svg) ![2](./img/build.svg) ![3](./img/Python.svg) ![4](./img/vue.svg) ![5](./img/tornado6.1.svg) <a href="http://www.wcplus.cn/?s=weixin_crawler">![6](./img/website.svg)</a>
 
@@ -21,10 +21,9 @@ wcplusPro 提供了：
 
 你可以按照使用时长购买订阅版，也可以直接购买源代码。如果不确 wcplusPro 是否满足需求，请在官网首页申请试用。
 
-- [官网](https://www.wcplus.cn/pro?s=weixin_crawler)
+- [官网](https://www.wcplus.cn/?s=weixin_crawler)
 - [详细功能介绍](https://www.wcplus.cn/intro?s=weixin_crawler)
 - [产品形式](https://www.wcplus.cn/product?s=weixin_crawler)
-- [在线演示](https://www.wcplus.cn/demo?s=weixin_crawler)
 - [视频演示](https://www.youtube.com/watch?v=nAtqSTgVRw0)
 
 ### 功能特性

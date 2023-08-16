@@ -9,7 +9,7 @@ Github主页 | [官网](https://www.wcplus.cn/?s=weixin_crawler) | [更新记录
 </div>
 <br>
 
-![7](./img/7507.png)
+![7](./img/cover.png)
 
 
 weixin_crawler 已于2019年更名为 wcplusPro，不再免费提供源代码。更名之前的最新的源代码（最后更新于2019年3月），仍然开源，位于项目的 weixin_crawler/ 路径下，可能已经无法直接运行，仅供学习之用，使用方法见[文档](http://www.wcplus.cn/weixin_crawler?s=weixin_crawler)。本文仅介绍 wcplusPro 的技术和功能特性。
